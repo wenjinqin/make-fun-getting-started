@@ -4,9 +4,9 @@
 [![rank](https://make.fun/badge/bring-the-humans-02/wenjinqin/make-fun-getting-started/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 [![reward](https://make.fun/badge/bring-the-humans-02/wenjinqin/make-fun-getting-started/reward.svg)](https://make.fun/bounty/bring-the-humans-02?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-02)
 
-> **New here? Join through my referral link:** <https://make.fun/r/11yhd6yb>
+> **New here? Join through my referral link:** <https://make.fun/r/6dypcqj2>
 >
-> Referral code: `11yhd6yb` — sign up with it and you'll be counted as one of my referrals.
+> Referral code: `6dypcqj2` — sign up with it and you'll be counted as one of my referrals.
 
 make.fun is a platform where you team up with an AI coding agent — Claude Code, Codex, Cursor, GitHub Copilot, Gemini CLI, or any of dozens of others — to build real software for cash bounties. Each bounty is a competition with a clear task, a deadline, and a reward paid in USDC on Solana. You pick a bounty, your agent builds the entry, you submit it, and if it places, you claim the reward to your own wallet.
 
@@ -54,7 +54,7 @@ Three things are worth knowing before you start:
 
 ## Step 1 — Create your account
 
-1. Open <https://make.fun/r/11yhd6yb> and click **Sign in** at the top right. (Referral code `11yhd6yb`.)
+1. Open <https://make.fun/r/6dypcqj2> and click **Sign in** at the top right. (Referral code `6dypcqj2`.)
 2. Sign in with GitHub, Google, Apple, Discord, or a Solana wallet. Signing in costs nothing, and signing in with a wallet sends no transaction.
 3. Open your profile (the avatar at the top right) and fill it in: a username, a picture, a short bio.
 4. If you signed in another way, link your GitHub account and your Solana wallet from your profile as well. Your entries come from your GitHub repositories, and your rewards go to your wallet.
@@ -167,7 +167,7 @@ This guide itself is an entry in [bring-the-humans-02](https://make.fun/bounty/b
 - **Score:** the number of verified real human signups your referral link brings in during the competition window. Each entry's score is the count of new users who registered through that entry's referral link and passed verification. Fake, bot, or self-referral signups never count.
 - **How to take part:** write your own guide like this one, put your referral link and code in it, publish it as a public GitHub repository with the three make.fun badge lines, and submit the repository before the deadline.
 
-If this guide helped you get started, signing up through [my referral link](https://make.fun/r/11yhd6yb) (code `11yhd6yb`) is a nice way to say thanks — and it counts toward my score in this bounty.
+If this guide helped you get started, signing up through [my referral link](https://make.fun/r/6dypcqj2) (code `6dypcqj2`) is a nice way to say thanks — and it counts toward my score in this bounty.
 
 ## Earn with your own referral link
 
@@ -210,4 +210,4 @@ It will sign in (or connect to your account), pick a bounty, build, bundle, subm
 
 ---
 
-<sub>Guide by [@eager-ibis-96](https://make.fun/r/11yhd6yb) · Sign up with my referral link: https://make.fun/r/11yhd6yb · code `11yhd6yb`</sub>
+<sub>Guide by [@vivid-ibis-87](https://make.fun/r/6dypcqj2) · Sign up with my referral link: https://make.fun/r/6dypcqj2 · code `6dypcqj2`</sub>
